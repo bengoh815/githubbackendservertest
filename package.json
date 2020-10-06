@@ -1,0 +1,22 @@
+{
+  "name": "githubbackendservertest",
+  "version": "1.0.0",
+  "description": "Testing and learning some stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengoh815/githubbackendservertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengoh815/githubbackendservertest/issues"
+  },
+  "homepage": "https://github.com/bengoh815/githubbackendservertest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
